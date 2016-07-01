@@ -1,0 +1,98 @@
+{
+    "health": {
+        "min": 1,
+        "max": 20,
+        "tap": 5,
+        "challenge": {
+            "20": [
+                "I tried to run yesterday but I couldn’t run for more than a minute. Is that a bad sign?",
+                "The other kids at school have been making fun of my belly. I’m going to get fit and show them!",
+                "All the other boys in my school are so thin and can run so much. I really need to get in shape."
+            ],
+            "40": [
+                "I like this girl but she called me ‘chubby’ the other day. Maybe if I loose weight she’ll like me?",
+                "I think I’m beginning to like sports class. Maybe I should work out more",
+                "I’m making a resolution diary, no more soda drinks for 2 months."
+            ],
+            "60": [
+                "I think I can see my first ab. Go me! It’s weird but I’m really enjoying this feeling.",
+                "A jog a day keeps the doctor away.",
+                "My dad just bought me some cool new running shoes today. I’m going to give them a spin tomorrow."
+            ],
+            "80": [
+                "So I saw this sign for a 5K race outside school today. I think I’m going to sign up for that.",
+                "The gym coach at school saw me playing football today and asked me to be on the team. I’m so excited!",
+                "Work hard. Play hard and run 5K everyday. That’s my mantra. "
+            ],
+            "100": [
+                "I’ve been killing it at football at school. This could be a career for be, maybe?",
+                "Training for longer and better hours is all I need to improve my game. I think I could take my school to the finals!",
+                "We just won the last game in the last two minutes. I’m going to train so hard, we defeat them next time!"
+            ]
+        }
+    },
+    "school": {
+        "min": 30,
+        "max": 70,
+        "tap": 17.5,
+        "challenge": {
+            "20": [
+                "I think I’m going to fail all my subjects this year. I better pull my socks up.",
+                "All my grades were Cs and Ds. I’m in so much trouble",
+                "I just got the news that if I don’t pass my next exam, I might fail"
+            ],
+            "40": [
+                "I guess a C is better than a D. Mum and dad are still very angry with me.",
+                "I’m just barely passing school this year. If I don’t do better, my mums going to kill me!",
+                "I just passed school riding the ‘C grade’ train."
+            ],
+            "60": [
+                "Yay! Finally a B! Maybe mum will be less angry this time?",
+                "No matter how hard i try, there is always still some homework that I need to do.",
+                "I have to get good marks this year, or mum is going to be so mad at me!"
+            ],
+            "80": [
+                "So I’ve gotten a few A’s this year which is good but I wasn’t top of my class.",
+                "Ranked 10th in class this year. Maybe for next year I’ll change the double digits to single digits!",
+                "Goal for next year, to win the student award. I’m going to start preparing from now."
+            ],
+            "100": [
+                "Did you know I missed the student of the year award because of 10 marks? Can’t let that happen again!",
+                "If I can win the student award, I can get a scholarship for college. Time to prep!",
+                "I hate coming in second in school. If I just try a little harder, I can do it!"
+            ]
+        }
+    },
+    "social": {
+        "min": 10,
+        "max": 25,
+        "tap": 6.25,
+        "challenge": {
+            "20": [
+                "You know diary, I don’t like going out and meeting people. Mum’s been nagging me about it",
+                "Mum asked me if I wanted to have a birthday party. What’s the point? I don’t have any friends anyways.",
+                "I enjoy the company of my books, not humans. Can’t get mum to listen to me, maybe I should listen to her?"
+            ],
+            "40": [
+                "I’m scared of going to school camp because I don’t know who will want to share their tent with me?",
+                "I don’t know how to play football. Maybe the kids in the park can teach me.",
+                "I hate sitting and eating my lunch alone. But making new friends is so hard!"
+            ],
+            "60": [
+                "OMG I haven’t seen my friends in like a whole week. Need to catch up with them very soon.",
+                "Samir told me so much gossip today. I’ve been missing out, I need to catch up with them!",
+                "My entire life is full of FOMO. I need some friend time, stat!"
+            ],
+            "80": [
+                "We went bowling and I had such a fun weekend with my friends. Time to plan the next weekend.",
+                "I’m having some serious FOMO right now. Samir had a party this weekend and I couldn’t make it. Never again, diary, never again!",
+                "I think I want to have a birthday party this year. I’m going to invite everyone and it’s going to lit!"
+            ],
+            "100": [
+                "Woohoo! 1000 instagram followers! Next goal, 2000!",
+                "Got myself some cool backstage tickets to Coldplay. Gotta keep my social quota up and I’ll ring in some more free stuff!",
+                "I do have an exam coming up BUT I also have a very important party which I just cannot miss. "
+            ]
+        }
+    }
+}
