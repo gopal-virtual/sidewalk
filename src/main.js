@@ -3,7 +3,7 @@ import Game from './game';
 import Menu from './menu';
 import Preloader from './preloader';
 
-const game = new Phaser.Game(640, 700, Phaser.AUTO, 'sidewalk-game');
+const game = new Phaser.Game(640, 750, Phaser.CANVAS, 'sidewalk-game');
 game.state.add('boot', new Boot());
 game.state.add('preloader', new Preloader());
 game.state.add('menu', new Menu());

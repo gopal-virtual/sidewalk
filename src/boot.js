@@ -2,11 +2,12 @@ class Boot extends Phaser.State {
 
   preload() {
     this.load.image('preloader', 'assets/preloader.gif');
-    this.load.spritesheet('character', 'assets/sprites/character-sprite.png', 150, 117);
+    this.load.image('sidewalk', 'assets/sprites/sidewalk.png');
+    // this.load.spritesheet('character', 'assets/sprites/character-sprite.png', 150, 117);
+    this.load.spritesheet('character', 'assets/sprites/character_boy.png', 601, 1313);
     this.load.image('button-health', 'assets/sprites/icon-health.png');
     this.load.image('button-school', 'assets/sprites/icon-school.png');
     this.load.image('button-social', 'assets/sprites/icon-social.png');
-    this.load.image('button-hobby', 'assets/sprites/icon-hobby.png');
     this.load.image('notebook', 'assets/sprites/notebook.png');
     this.load.json('challenge', 'data/category.json');
     this.stage.backgroundColor = "#ffffff";
